@@ -1,0 +1,6 @@
+运行PushBox.exe文件便可以运行游戏
+map文件夹下存储地图信息
+Music文件夹下存储音乐信息
+information文件夹下存储行动信息
+PushBox.c为程序的源代码
+.vscode为vscode编辑器的支持文件,推荐使用vscode打开源代码文件
